@@ -1,4 +1,4 @@
-![Alt text](airplane.jpg)
+![Alt text](./image/airplane.jpg)
 
 # Flight Tracker with Weather Risk Assessment
 
