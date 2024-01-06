@@ -1,0 +1,19 @@
+name: flight-tracker
+dependencies:
+  - python=3.9.17
+  - plotly
+  - dash
+  - pandas
+  - requests
+  - regex
+  - scipy
+  - numpy
+  - pytz
+  - pip
+  - pip:
+    - FlightRadarAPI==1.3.10
+    - openmeteo-requests
+    - datetime
+    - dash_bootstrap_components
+    - dash_bootstrap_templates
+    - pyspark

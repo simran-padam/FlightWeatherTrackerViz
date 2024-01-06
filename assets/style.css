@@ -1,0 +1,30 @@
+.Select-control {
+    background-color: rgb(34, 34, 34) !important;
+    color:white;
+  }
+  
+.Select-menu-outer {
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+
+.Select-value-label {
+    color: white !important;
+}
+
+.Select input{
+    color: white;
+}
+
+.darkly-dropdown .VirtualizedSelectOption{
+    background-color: #222222;
+    color: white;
+}
+
+.darkly-dropdown .VirtualizedSelectFocusedOption {
+    background-color: blue;
+    color: white;
+}
+
+
+
